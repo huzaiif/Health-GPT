@@ -76,7 +76,4 @@
 
 ## 👨‍💻 Author
 
-**Huzaif** - *AI Engineer*
-
----
-*Built with ❤️ using Streamlit and Google Gemini.*
+**Huzaif**
